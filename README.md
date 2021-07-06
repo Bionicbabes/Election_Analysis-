@@ -2,10 +2,10 @@
 
 ## Project Overview 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election,  
-[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-[x] The voter turnout for each county
-[x] The percentage of votes from each county out of the total count
-[x] The county with the highest turnout
+
+* The voter turnout for each county
+* The percentage of votes from each county out of the total count
+* The county with the highest turnout
 
 ## Resources 
 - Data Source: election_results.csv
