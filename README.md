@@ -11,7 +11,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
 - Software: Python 3.9.6 64 bit Visual Studio Code 1.57.1
 
-## Summary of the election show that: 
+## Election-Audit Results: 
 * How many votes were cast in this congressional election?
 
 Election Results
