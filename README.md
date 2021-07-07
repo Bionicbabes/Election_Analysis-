@@ -58,8 +58,8 @@ In conclusion this analysis can be used in future election and is not limited to
 
 Furthermore is you would like to change the way the winner is determined the code could be modified to your needs by looking more deeply into this code, this code looks at the popular vote in each county.  If we were to get the presidential race we could use this code as a template and also include electoral college votes to the analysis to help predict the winner.
   
-  
-  if (number_of_county_votes > winning_county_count) and (county_vote_percentage > winning_percentage):
+       # Determining the winner of the election 
+       if (number_of_county_votes > winning_county_count) and (county_vote_percentage > winning_percentage):
             # If true then set winning_count = votes and winning_percent =
             # vote_percentage.
             winning_county_count = number_of_county_votes
